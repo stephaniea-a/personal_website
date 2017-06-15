@@ -1,0 +1,48 @@
+body{
+	font-size:0;
+}
+
+.main-content {
+	background-color: lightgrey;
+	height: 1000px;
+}
+
+header {
+	/*background-image: url()*/
+	height: 100px;
+	line-height: 100px;
+}
+
+
+header h1 {
+	color:white;
+	font-family: Arial;
+	text-align: center;
+	font-size: 45px;
+}
+
+nav {
+	height: 100px;
+    line-height: 100px;
+    color: white;
+    font-size: 25px;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+aside {
+	height: 300px;
+	width: 50%;
+    background-color: pink;
+    display: inline-block;
+}
+
+
+section {
+	height: 300px;
+    width: 50%;
+    background-color: gold;
+    display: inline-block;
+}
